@@ -1,4 +1,4 @@
-his project analyzes and forecasts daily passenger traffic for different public transport routes.
+This project analyzes and forecasts daily passenger traffic for different public transport routes.
 
 Dataset : Local Route, Light Rail, Peak Service, Rapid Route, School, Other 
 Total records=1918
