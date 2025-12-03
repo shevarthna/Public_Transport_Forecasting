@@ -5,36 +5,37 @@ Total records=1918
 
 Preprocessing :
 
-1 identifying null values 
+1.Identifying null values 
 
-2 replacing using median
+2.Replacing using median
 
-3 converting data column into date format and setting it as index
+3.Converting data column into date format and setting it as index
 
-Features
+Features:
 
-1 calculated total traffic
+1.Calculated total traffic
 
-2 computed ratios for each route
+2.Computed ratios for each route
 
-3 calculated lag features for each route
+3.Calculated lag features for each route
 
-4 added day related features like is weekend
+4.Added day related features like is weekend
 
-Algorithm
+Algorithm:
 
 Random Forest Regressor
 
-1 it handles multiple features
+1.It handles multiple features
 
-2 captures non linear relationships between features
+2.Captures non linear relationships between features
 
-3 robust to outliers
+3.Robust to outliers
 
-Output
+Output:
+
 To forecast 7 days for all the routes
 
-Key insights
+Key insights:
 
 1.Light Rail and Rapid Route show the highest contribution across most days.
 
