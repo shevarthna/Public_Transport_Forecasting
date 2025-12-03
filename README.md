@@ -6,20 +6,29 @@ Total records=1918
 Preprocessing :
 
 1 identifying null values 
+
 2 replacing using median
+
 3 converting data column into date format and setting it as index
 
 Features
+
 1 calculated total traffic
+
 2 computed ratios for each route
+
 3 calculated lag features for each route
+
 4 added day related features like is weekend
 
 Algorithm
 
 Random Forest Regressor
+
 1 it handles multiple features
+
 2 captures non linear relationships between features
+
 3 robust to outliers
 
 Output
